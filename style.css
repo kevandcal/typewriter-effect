@@ -1,0 +1,20 @@
+body {
+    height: 100vh;
+    background-color: #202040;
+    font-family: Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    padding: 0 5rem;
+    color: #602080;
+}
+
+.typewriter-txt {
+    color: #b030b0;
+    border-right: 2px solid #b030b0;
+}
